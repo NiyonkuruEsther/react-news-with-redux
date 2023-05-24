@@ -1,2 +1,2 @@
-﻿# react-news-with-typescript
+﻿# react-news-with-redux
 
